@@ -71,6 +71,7 @@ button {
     font-weight: 600;
     font-size: 30px;
     margin-top:52px;
+    margin-button:30px;
     border:none;
     cursor: pointer;
 }
